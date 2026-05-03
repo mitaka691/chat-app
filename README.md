@@ -1,2 +1,2 @@
 # chat-app
-server-client based chat app using e2ee
+чат приложение с end-2-end криптиране
